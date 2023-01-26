@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1a/Exercises/exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1a/Exercises/exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1a/Exercises/exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1a/red_dot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1b/exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1b/exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1b/exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1b/exercise4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1c/exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1c/exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1c/exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1c/exercise4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 1c/exercise5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/bit_commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 2a/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 2a/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 2a/fix-reds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 2a/flowers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/bit_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Library/bit_commands.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,35 +40,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 2a" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 1c" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Lab 1a\Exercises" />
-      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercise5">
-    <configuration name="exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cs110" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs/Lab 1c" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/Lab 1c/exercise2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.fix-reds">
     <configuration name="exercise3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,13 +132,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="fix-reds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs110" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs/Lab 2a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/Lab 2a/fix-reds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fix-reds" />
         <item itemvalue="Python.exercise5" />
         <item itemvalue="Python.exercise4" />
         <item itemvalue="Python.exercise3" />
         <item itemvalue="Python.exercise4 (1)" />
-        <item itemvalue="Python.exercise2" />
       </list>
     </recent_temporary>
   </component>

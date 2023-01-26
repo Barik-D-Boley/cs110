@@ -10,6 +10,6 @@ def bit_paint_and_move(bit, blocks, color):
             bit.move()
 
 
-def get_bit_coords(bit):
+def get_bit_coordinates(bit):
     bit_info = str(bit).split('\n')
     return bit_info[: -2][len(bit_info[: -2]) - 1].split(' ')
