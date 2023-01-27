@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1a/fix_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1a/fix_me_too.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1a/make_me_smile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/boxes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/one_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/quilt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1c/blue_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1c/go_to_lake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 1c/red_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2a/fix-pipe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2a/invert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2a/wander.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2b/paint_and_exit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2b/remove_rocks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2b/scurry.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab 2a/exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab 2a/exercise2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab 2a/fix-reds.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab 2a/fix-reds.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab 2a/flowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab 2a/flowers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/bit_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Library/bit_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 2a/fix-pipe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 2a/fix-pipe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 2a/invert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 2a/invert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 2a/wander.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 2a/wander.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +45,8 @@
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 1a" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.paint_and_exit">
-    <configuration name="fix-reds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.fix-pipe">
+    <configuration name="fix-pipe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs/Lab 2a" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/Lab 2a/fix-reds.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2a/fix-pipe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flowers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="invert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs/Lab 2a" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/Lab 2a/flowers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2a/invert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,27 +109,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remove_rocks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cs110" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2b" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2b/remove_rocks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="scurry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,13 +130,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wander" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs110" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2a/wander.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.paint_and_exit" />
-        <item itemvalue="Python.remove_rocks" />
+        <item itemvalue="Python.fix-pipe" />
+        <item itemvalue="Python.wander" />
+        <item itemvalue="Python.invert" />
         <item itemvalue="Python.scurry" />
-        <item itemvalue="Python.flowers" />
-        <item itemvalue="Python.fix-reds" />
+        <item itemvalue="Python.paint_and_exit" />
       </list>
     </recent_temporary>
   </component>
