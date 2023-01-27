@@ -1,12 +1,17 @@
 from byubit import Bit
+from Library.bit_commands import *
 
 
 @Bit.worlds('fix-reds')
-def run(bit):
-    # Write code here
-    pass
+def go(bit):
+    while not bit.is_green():
+        bit.move()
+
+    while bit.front_clear():
+        bit.move()
+        if bit.is_red():
+            bit.paint('blue')
 
 
 if __name__ == '__main__':
-    run(Bit.new_bit)
-
+    go(Bit.new_bit)
