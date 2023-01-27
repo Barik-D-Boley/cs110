@@ -5,7 +5,7 @@ from byubit import Bit
 @Bit.worlds('blue-square')
 def go(bit):
     # Draw a square
-    while bit.front_clear():
+    while bit.is_empty():
         bit.paint("blue")
         bit.move()
         bit.paint("blue")
