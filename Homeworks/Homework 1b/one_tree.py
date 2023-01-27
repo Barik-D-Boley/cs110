@@ -1,32 +1,24 @@
 from byubit import Bit
-
-
-def move_to_tree(bit):
-    """ Moves to the trunk """
-    pass
-
-
-def draw_trunk(bit):
-    """ Draws the trunk (two red squares)  """
-    pass
-
-
-def draw_branches(bit):
-    """ Draws the branches """
-    pass
-
-
-def go_back_down(bit):
-    """ Moves back down to the ground, below the right-most branch, facing right. """
-    pass
+from Library.bit_commands import *
 
 
 @Bit.worlds("one_tree")
 def one_tree(bit):
-    move_to_tree(bit)
-    draw_trunk(bit)
-    draw_branches(bit)
-    go_back_down(bit)
+    bit.left()
+    bit_move(bit, 2)
+    bit.right()
+    bit.move()
+    bit_paint_and_move(bit, 3, 'green')
+    bit.left()
+    bit.move()
+    bit.left()
+    bit.move()
+    bit.left()
+    bit_paint_and_move(bit, 2, 'green')
+    bit.move()
+    bit_paint_and_move(bit, 2, 'red')
+    bit.left()
+    bit.move()
 
 
 if __name__ == '__main__':
