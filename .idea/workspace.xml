@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cs110.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2c/barcodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2c/bitathon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 2c/soccer_fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 2c/blossoms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 2c/leap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 2c/surround.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1b/boxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/boxes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1b/one_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/one_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1b/quilt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/quilt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1b/trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/trees.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,23 +35,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Homeworks\Homework 2c" />
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Labs\Lab 2c" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 2b" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 2a" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 1c" />
-      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 1b" />
-      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 1a" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quilt">
+  <component name="RunManager" selected="Python.soccer_fields">
+    <configuration name="barcodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs110" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2c" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2c/barcodes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="boxes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,27 +87,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 1b/boxes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="one_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cs110" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 1b" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 1b/one_tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="red_line" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="soccer_fields" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 1c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2c" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 1c/red_line.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2c/soccer_fields.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.soccer_fields" />
+        <item itemvalue="Python.barcodes" />
         <item itemvalue="Python.quilt" />
         <item itemvalue="Python.boxes" />
         <item itemvalue="Python.trees" />
-        <item itemvalue="Python.one_tree" />
-        <item itemvalue="Python.red_line" />
       </list>
     </recent_temporary>
   </component>
