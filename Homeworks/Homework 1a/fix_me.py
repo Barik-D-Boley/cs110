@@ -7,7 +7,7 @@ def fix_me(bit):
     bit.move()
     bit.paint('green')
     bit.move()
-    bit.right()
+    bit.left()
     bit.paint('green')
     bit.move()
     bit.paint('blue')
