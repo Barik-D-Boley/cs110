@@ -34,4 +34,3 @@ def go(bit):
 
 if __name__ == '__main__':
     go(Bit.new_bit)
-
