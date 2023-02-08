@@ -1,5 +1,11 @@
 from byubit import Bit
-from Library.bit_commands import *
+
+
+def bit_paint_and_move(bit, blocks, color):
+    for i in range(blocks):
+        bit.paint(color)
+        if i < blocks-1 or blocks == 1:
+            bit.move()
 
 
 @Bit.worlds("boxes")

@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 3b/adding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 3b/compliments_and_advice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 3b/concatenating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Project 2/blue_s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Project 2/escape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Project 2/gems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Project 2/invert.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 2d/wells_and_vines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 2d/wells_and_vines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1a/make_me_smile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1a/make_me_smile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1a/picasso.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1a/picasso.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1b/boxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/boxes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1b/one_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/one_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 1b/quilt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 1b/quilt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +48,8 @@
       <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Labs\Lab 2d" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gems">
-    <configuration name="blossoms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.scurry">
+    <configuration name="invert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs/Lab 2c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/Lab 2c/blossoms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2a/invert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="escape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="paint_and_exit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/Project 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/Project 2/escape.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2b/paint_and_exit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flowers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="remove_rocks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs/Lab 2d" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/Lab 2d/flowers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2b/remove_rocks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scurry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/Project 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/Project 2/gems.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2b/scurry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wells_and_vines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wander" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2d" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 2a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2d/wells_and_vines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 2a/wander.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gems" />
-        <item itemvalue="Python.blossoms" />
-        <item itemvalue="Python.wells_and_vines" />
-        <item itemvalue="Python.flowers" />
-        <item itemvalue="Python.escape" />
+        <item itemvalue="Python.scurry" />
+        <item itemvalue="Python.remove_rocks" />
+        <item itemvalue="Python.paint_and_exit" />
+        <item itemvalue="Python.wander" />
+        <item itemvalue="Python.invert" />
       </list>
     </recent_temporary>
   </component>
