@@ -34,6 +34,5 @@ def run(bit):
         bit.move()
 
 
-
 if __name__ == '__main__':
     run(Bit.new_bit)
