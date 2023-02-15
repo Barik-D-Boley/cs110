@@ -1,0 +1,12 @@
+Guess a word: slate
+Lower!
+Guess a word: crane
+Higher!
+Guess a word: pickles
+Higher!
+Guess a word: quiz
+Lower!
+Guess a word: poodle
+Higher!
+Guess a word: python
+You got it!
