@@ -1,0 +1,13 @@
+Enter a word: python
+Enter a word: professor
+Enter a word: ameliorate
+Enter a word: math
+Enter a word: hi
+Enter a word: cheese
+Enter a word: 
+Enter a length: 6
+There are 4 short words:
+- python
+- math
+- hi
+- cheese
