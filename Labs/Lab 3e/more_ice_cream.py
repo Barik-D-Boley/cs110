@@ -17,7 +17,6 @@ def get_ratings():
     return ratings
 
 
-
 def get_flavors():
     flavors = []
     print('Enter flavors to get info on, ending with a blank line.')
