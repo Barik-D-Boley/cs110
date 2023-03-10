@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4a/practice_problems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4a/students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4a/test_practice_problems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4a/test_students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/out_of_stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/practice_problems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/reverse_wordle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/test_out_of_stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/test_practice_problems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/test_reverse_wordle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 4a/make_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 4a/password_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 4a/tickboom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 4b/changeup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 4b/chatbot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 4b/jerseys.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab 3e/more_ice_cream.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab 3e/more_ice_cream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 4b/out_of_stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/out_of_stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 4b/practice_problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/practice_problems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 4b/reverse_wordle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 4b/reverse_wordle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 4b" />
@@ -60,8 +46,8 @@
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Projects\Project 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_practice_problems.test_replace_digits_with_asterisk_long">
-    <configuration name="practice_problems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_out_of_stock.test_out_of_stock">
+    <configuration name="out_of_stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4a" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 4a/practice_problems.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 4b/out_of_stock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse_wordle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4a" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 4a/students.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 4b/reverse_wordle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,61 +89,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_practice_problems.test_keep_big_words_again" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_out_of_stock.test_out_of_stock" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4a" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_practice_problems.test_keep_big_words_again&quot;" />
+      <option name="_new_target" value="&quot;test_out_of_stock.test_out_of_stock&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_practice_problems.test_replace_digits_with_asterisk_long" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_practice_problems.test_only_o_again" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4a" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_practice_problems.test_replace_digits_with_asterisk_long&quot;" />
+      <option name="_new_target" value="&quot;test_practice_problems.test_only_o_again&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_students.test_students" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_reverse_wordle.test_reverse_wordle" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4a" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_students.test_students&quot;" />
+      <option name="_new_target" value="&quot;test_reverse_wordle.test_reverse_wordle&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_practice_problems.test_replace_digits_with_asterisk_long" />
-        <item itemvalue="Python tests.pytest for test_practice_problems.test_keep_big_words_again" />
-        <item itemvalue="Python.practice_problems" />
-        <item itemvalue="Python tests.pytest for test_students.test_students" />
-        <item itemvalue="Python.students" />
+        <item itemvalue="Python tests.pytest for test_out_of_stock.test_out_of_stock" />
+        <item itemvalue="Python.out_of_stock" />
+        <item itemvalue="Python tests.pytest for test_reverse_wordle.test_reverse_wordle" />
+        <item itemvalue="Python.reverse_wordle" />
+        <item itemvalue="Python tests.pytest for test_practice_problems.test_only_o_again" />
       </list>
     </recent_temporary>
   </component>

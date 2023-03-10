@@ -1,27 +1,51 @@
+import re
+
+
 def doubles(text):
-    '''
-    Replace all "oo" with "oooooo" and all "ee" with "eeeeee".
-    Return the new text.
-    '''
+    new_sentence = [*text]
+
+    for i in range(len(new_sentence)-1):
+        if new_sentence[i] == 'e' and new_sentence[i+1] == 'e':
+            new_sentence[i] = 'eeeee'
+            i += 1
+        elif (new_sentence[i] == 'o' and new_sentence[i+1] == 'o'):
+            new_sentence[i] = 'ooooo'
+            i += 1
+
+    return ''.join(str(i) for i in new_sentence)
+
+
 def for_reals(text):
-    '''
-    Replace all '%' with ' percent' and all '!' with ' (for reals).'
-    Notice the spaces!    ^                           ^
-    Return the new text.
-    '''
+    new_sentence = [*text]
+
+    for i in range(len(new_sentence)):
+        if new_sentence[i] == '%':
+            new_sentence[i] = ' percent'
+        elif new_sentence[i] == '!':
+            new_sentence[i] = ' (for reals).'
+
+    return ''.join(str(i) for i in new_sentence)
+
+
 def only_o(text):
-    '''
-    Replace all vowels (aeiou) with 'o'
-    Preserve the casing of each letter.
-    Return the new text.
+    vowel_filter = re.compile('[aeiouAEIOU]')
+    new_sentence = [*text]
 
-    Example:
+    for i in range(len(new_sentence)):
+        if vowel_filter.match(new_sentence[i]) and new_sentence[i].isupper():
+            new_sentence[i] = 'O'
+        elif vowel_filter.match(new_sentence[i]) and not new_sentence[i].isupper():
+            new_sentence[i] = 'o'
 
-    >>> only_o("I like to eat apples and bananas")
-    "O loko to oot opplos ond bononos"
-    '''
+    return ''.join(str(i) for i in new_sentence)
+
+
 def upper_vowels(text):
-    '''
-    Make all vowels uppercase.
-    Return the new text.
-    '''
+    vowel_filter = re.compile('[aeiouAEIOU]')
+    new_sentence = [*text]
+
+    for i in range(len(new_sentence)):
+        if vowel_filter.match(new_sentence[i]):
+            new_sentence[i] = new_sentence[i].upper()
+
+    return ''.join(str(i) for i in new_sentence)
