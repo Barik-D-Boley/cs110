@@ -1,31 +1,51 @@
+import re
+
+
+# Once it reaches a digit
 def f1(text):
     result = ''
     for character in text:
-        result += 'tick'
+        if re.compile('\d').match(character):
+            result += 'BOOM'
+            break
+        else:
+            result += 'tick'
     return result
 
 
+# Once it reaches a lower case letter
 def f2(text):
     result = ''
     for character in text:
-        result += 'tick'
-
+        if re.compile('[a-z]').match(character):
+            result += 'BOOM'
+            break
+        else:
+            result += 'tick'
     return result
 
 
+# Any letter
 def f3(text):
     result = ''
     for character in text:
-        result += 'tick'
-
+        if re.compile('[a-zA-Z]').match(character):
+            result += 'BOOM'
+            break
+        else:
+            result += 'tick'
     return result
 
 
+# Any whitespace
 def f4(text):
     result = ''
     for character in text:
-        result += 'tick'
-
+        if re.compile('\s').match(character):
+            result += 'BOOM'
+            break
+        else:
+            result += 'tick'
     return result
 
 

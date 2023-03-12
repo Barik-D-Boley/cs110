@@ -1,6 +1,6 @@
 def make_a_string(the_list):
-    # Write code here
-    pass
+    the_list = [word.upper() for word in the_list]
+    return '-'.join(the_list)
 
 
 def main():
