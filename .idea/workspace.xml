@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 4c/calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/Lab 4c/look_for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab 4a/make_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab 4a/make_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab 4a/password_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab 4a/password_checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab 4a/tickboom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab 4a/tickboom.py" afterDir="false" />
-    </list>
+    <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
