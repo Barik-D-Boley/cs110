@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4c/big_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4c/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4c/in_there.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4c/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4c/test_big_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4c/test_hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4c/test_in_there.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4c/test_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/add_bullets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/bullets.input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/filter_nan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/nan_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/ooooo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/peter_piper.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/redaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/test_add_bullets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/test_filter_nan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/test_ooooo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4d/test_redaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 4d/double_space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 4d/receipts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 4d/safeguard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 4d/still-i-rise.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,101 +51,101 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 4d" />
+      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 4d" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 4c" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 4c" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 4b" />
-      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 4a" />
-      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 4b" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_in_there.test_in_there_again">
-    <configuration name="pytest for test_big_words.test_big_words" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_redaction.test_redaction_large_and">
+    <configuration name="pytest for test_ooooo.test_ooooo_large" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4d" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_big_words.test_big_words&quot;" />
+      <option name="_new_target" value="&quot;test_ooooo.test_ooooo_large&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_big_words.test_more_big_words" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_redaction.test_redaction_large_and" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4d" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_big_words.test_more_big_words&quot;" />
+      <option name="_new_target" value="&quot;test_redaction.test_redaction_large_and&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_in_there.test_in_there" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_redaction.test_redaction_large_the" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4d" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_in_there.test_in_there&quot;" />
+      <option name="_new_target" value="&quot;test_redaction.test_redaction_large_the&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_in_there.test_in_there_again" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_redaction.test_redaction_small_peter" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4d" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_in_there.test_in_there_again&quot;" />
+      <option name="_new_target" value="&quot;test_redaction.test_redaction_small_peter&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_product.test_another_product" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_redaction.test_redaction_small_picked" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4d" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_product.test_another_product&quot;" />
+      <option name="_new_target" value="&quot;test_redaction.test_redaction_small_picked&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_in_there.test_in_there_again" />
-        <item itemvalue="Python tests.pytest for test_in_there.test_in_there" />
-        <item itemvalue="Python tests.pytest for test_big_words.test_big_words" />
-        <item itemvalue="Python tests.pytest for test_big_words.test_more_big_words" />
-        <item itemvalue="Python tests.pytest for test_product.test_another_product" />
+        <item itemvalue="Python tests.pytest for test_redaction.test_redaction_large_and" />
+        <item itemvalue="Python tests.pytest for test_redaction.test_redaction_large_the" />
+        <item itemvalue="Python tests.pytest for test_redaction.test_redaction_small_peter" />
+        <item itemvalue="Python tests.pytest for test_redaction.test_redaction_small_picked" />
+        <item itemvalue="Python tests.pytest for test_ooooo.test_ooooo_large" />
       </list>
     </recent_temporary>
   </component>

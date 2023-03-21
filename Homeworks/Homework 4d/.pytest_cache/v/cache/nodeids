@@ -1,0 +1,12 @@
+[
+  "test_add_bullets.py::test_add_bullets_multiple_lines",
+  "test_add_bullets.py::test_add_bullets_one_line",
+  "test_filter_nan.py::test_filter_nan_large",
+  "test_filter_nan.py::test_filter_nan_small",
+  "test_ooooo.py::test_ooooo_large",
+  "test_ooooo.py::test_ooooo_small",
+  "test_redaction.py::test_redaction_large_and",
+  "test_redaction.py::test_redaction_large_the",
+  "test_redaction.py::test_redaction_small_peter",
+  "test_redaction.py::test_redaction_small_picked"
+]
