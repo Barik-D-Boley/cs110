@@ -1,0 +1,14 @@
+[
+  "test_average_income.py::test_average_income_engineer[average]",
+  "test_average_income.py::test_average_income_engineer[everything-else]",
+  "test_average_income.py::test_average_income_engineer[profession]",
+  "test_average_income.py::test_average_income_lawyer[average]",
+  "test_average_income.py::test_average_income_lawyer[everything-else]",
+  "test_average_income.py::test_average_income_lawyer[profession]",
+  "test_older_customers.py::test_older_customers_15",
+  "test_older_customers.py::test_older_customers_30",
+  "test_replace_word.py::test_replace_word_seashells_lemonade",
+  "test_replace_word.py::test_replace_word_sells_sold",
+  "test_sum_nums.py::test_sum_nums_small[everything-else]",
+  "test_sum_nums.py::test_sum_nums_small[total]"
+]
