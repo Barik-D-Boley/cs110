@@ -5,8 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/count_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/nba_players.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/test_count_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/test_val_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/test_voting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/twinkle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/value_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/voting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/blue_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/grades.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/group_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/some_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/test_blue_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/test_group_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/test_word_groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/word_groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5c/Pokemon.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5c/better_writing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5c/pokemon_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5c/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5c/writing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5d/Pokemon-small.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5d/Pokemon.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5d/group_by_first_two_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 5d/pokemon_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project 4/wordle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 4/wordle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,69 +52,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Homeworks\Homework 5d" />
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Homeworks\Homework 5c" />
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Labs\Lab 5d" />
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Labs\Lab 5c" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 5b" />
-      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 5b" />
-      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Homeworks\Homework 4e" />
-      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Labs\Lab 4d" />
-      <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 4d" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_wordle.test_wordle_real_game">
-    <configuration name="pytest for test_wordle.test_wordle_correct_word_has_doubles" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_word_groups.test_word_groups">
+    <configuration name="blue_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs110" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 5d" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 5d/blue_score.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_blue_score.test_blue_score" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/Project 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 5d" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_wordle.test_wordle_correct_word_has_doubles&quot;" />
+      <option name="_new_target" value="&quot;test_blue_score.test_blue_score&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_wordle.test_wordle_duplicate_letters_one_correct_one_close" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_word_groups.test_word_groups" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/Project 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 5d" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_wordle.test_wordle_duplicate_letters_one_correct_one_close&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_wordle.test_wordle_numbers_and_symbols" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="cs110" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/Project 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_wordle.test_wordle_numbers_and_symbols&quot;" />
+      <option name="_new_target" value="&quot;test_word_groups.test_word_groups&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -127,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_wordle.test_wordle_real_game" />
+        <item itemvalue="Python tests.pytest for test_word_groups.test_word_groups" />
+        <item itemvalue="Python tests.pytest for test_blue_score.test_blue_score" />
+        <item itemvalue="Python.blue_score" />
         <item itemvalue="Python tests.pytest for test_wordle.test_wordle_six_guesses_loss" />
-        <item itemvalue="Python tests.pytest for test_wordle.test_wordle_duplicate_letters_one_correct_one_close" />
-        <item itemvalue="Python tests.pytest for test_wordle.test_wordle_correct_word_has_doubles" />
-        <item itemvalue="Python tests.pytest for test_wordle.test_wordle_numbers_and_symbols" />
+        <item itemvalue="Python tests.pytest for test_wordle.test_wordle_real_game" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +175,9 @@
       <updated>1674615264659</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
