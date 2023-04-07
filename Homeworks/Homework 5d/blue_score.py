@@ -2,9 +2,9 @@ import re
 
 
 class BlueScore:
-  def __init__(self, phrase, score):
-    self.phrase = phrase
-    self.score = score
+    def __init__(self, phrase, score):
+        self.phrase = phrase
+        self.score = score
 
 
 def main():

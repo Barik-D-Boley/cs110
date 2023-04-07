@@ -1,4 +1,22 @@
+import sys
 
-# Write your code here.
-# Remember to use a main block.
-# You can see examples of this in your lab assignments and the guide.
+
+def main(string, infile):
+    letters = {}
+
+    with open(infile, 'r') as file:
+        file_read = file.read()
+
+    for letter in string:
+        if not letter in letters.keys():
+            letters[letter] = 0
+
+    for letter in file_read:
+        if letter.lower() in letters.keys():
+            letters[letter.lower()] += 1
+
+    print(letters)
+
+
+if __name__ == '__main__':
+    main(sys.argv[1], sys.argv[2])
