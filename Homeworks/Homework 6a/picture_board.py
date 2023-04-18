@@ -1,4 +1,18 @@
+def main():
+    emoji_grid = []
+    for i in range(5):
+        emoji_grid.append('')
 
-# Write your code here.
-# Remember to use a main block.
-# You can see examples of this in your lab assignments and the guide.
+    print(f'{emoji_grid}\n')
+    while True:
+        slot = input('Slot: ')
+        if slot == '':
+            break
+        slot = int(slot)
+        emoji = input('Pic: ')
+        emoji_grid[slot] = emoji
+        print(f'{emoji_grid}\n')
+
+
+if __name__ == '__main__':
+    main()

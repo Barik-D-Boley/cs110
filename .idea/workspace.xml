@@ -5,31 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 4f/word_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 6b/grid_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 6b/small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 6b/test_grid_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework 6b/world.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 6b/drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab 6b/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/build_codex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/encode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/not_secret.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/secret.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/test_build_codex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/test_decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/test_encode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/test_frequency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 4f/compare_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 4f/compare_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 4f/random_asterisks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 4f/random_asterisks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 4f/word_guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 4f/word_guess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/addresses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/auto_correct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/postal_routing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/sloppy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_auto_correct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_files/addresses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_files/another_sloppy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_files/more_addresses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_files/neat.expected.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_files/neat_again.expected.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_files/postal_bins.expected.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_files/postal_bins_again.expected.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_files/sloppy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5b/test_postal_routing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5c/count_letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/count_letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5c/value_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/value_count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5c/voting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 5c/voting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5d/blue_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/blue_score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 5d/group_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 5d/group_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 6a/better_word_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 6a/better_word_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 6a/picture_board.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 6a/picture_board.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,15 +55,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Labs\Lab 6b" />
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Homeworks\Homework 6b" />
+      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Projects\Project 5" />
       <recent name="C:\Users\xBari\OneDrive\Documents\GitHub\cs110\Homeworks\Homework 4f" />
       <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Homeworks\Homework 5d" />
-      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Homeworks\Homework 5c" />
-      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Labs\Lab 5d" />
-      <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Labs\Lab 5c" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_random_asterisks.test_random_asterisks_half_aaa">
-    <configuration name="random_asterisks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_grid_game.test_grid_game">
+    <configuration name="picture_board" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4f" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 6a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 4f/random_asterisks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/Homework 6a/picture_board.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,35 +84,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_random_asterisks.test_random_asterisks_half_a" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_better_word_count.test_better_word_count" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4f" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 6a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_random_asterisks.test_random_asterisks_half_a&quot;" />
+      <option name="_new_target" value="&quot;test_better_word_count.test_better_word_count&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_random_asterisks.test_random_asterisks_half_aa" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_grid_game.test_grid_game" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4f" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 6b" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_random_asterisks.test_random_asterisks_half_aa&quot;" />
+      <option name="_new_target" value="&quot;test_grid_game.test_grid_game&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_picture_board.test_picture_board" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="cs110" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 6a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_picture_board.test_picture_board&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -138,29 +148,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_random_asterisks.test_random_asterisks_one" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="cs110" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/Homework 4f" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_random_asterisks.test_random_asterisks_one&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_grid_game.test_grid_game" />
+        <item itemvalue="Python tests.pytest for test_picture_board.test_picture_board" />
+        <item itemvalue="Python.picture_board" />
+        <item itemvalue="Python tests.pytest for test_better_word_count.test_better_word_count" />
         <item itemvalue="Python tests.pytest for test_random_asterisks.test_random_asterisks_half_aaa" />
-        <item itemvalue="Python tests.pytest for test_random_asterisks.test_random_asterisks_half_aa" />
-        <item itemvalue="Python tests.pytest for test_random_asterisks.test_random_asterisks_half_a" />
-        <item itemvalue="Python tests.pytest for test_random_asterisks.test_random_asterisks_one" />
-        <item itemvalue="Python.random_asterisks" />
       </list>
     </recent_temporary>
   </component>
