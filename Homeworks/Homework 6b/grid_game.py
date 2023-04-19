@@ -7,9 +7,10 @@ WIN = '!'
 
 
 def print_grid(grid):
-    # print(grid)
     for line in grid:
-        print('a'.join(line), end='')
+        new_line = ' '.join(line)
+        new_line = re.sub(r'\n', ' \n', new_line)
+        print(new_line, end='')
 
 
 def read_grid(filename):
