@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186685-ce4b-4f4a-afa0-affb10782532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/Project 5/cipher.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cs110.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cs110.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project 5/simple.encoded.observed.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/Homework 6b/grid_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework 6b/grid_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project 5/build_codex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 5/build_codex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Project 5/cipher.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 5/codex.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Project 5/cipher.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/Project 5/decode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 5/decode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/Project 5/encode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 5/encode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project 5/frequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 5/frequency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project 5/secret.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project 5/secret.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,23 @@
       <recent name="C:\Users\barik.boley\Documents\GitHub\cs110\Homeworks\Homework 5d" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_decode.test_decode_simple">
+  <component name="RunManager" selected="Python tests.pytest for test_decode.test_decode_nephi">
+    <configuration name="pytest for test_decode.test_decode_message" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="cs110" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/Project 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_decode.test_decode_message&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_decode.test_decode_nephi" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +98,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_encode.test_encode_simple" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_encode.test_encode_message" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +110,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_encode.test_encode_simple&quot;" />
+      <option name="_new_target" value="&quot;test_encode.test_encode_message&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_frequency.test_frequency_message" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_encode.test_encode_nephi" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="cs110" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,33 +126,17 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_frequency.test_frequency_message&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_frequency.test_frequency_nephi" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="cs110" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/Project 5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_frequency.test_frequency_nephi&quot;" />
+      <option name="_new_target" value="&quot;test_encode.test_encode_nephi&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_decode.test_decode_simple" />
         <item itemvalue="Python tests.pytest for test_decode.test_decode_nephi" />
-        <item itemvalue="Python tests.pytest for test_encode.test_encode_simple" />
-        <item itemvalue="Python tests.pytest for test_frequency.test_frequency_nephi" />
-        <item itemvalue="Python tests.pytest for test_frequency.test_frequency_message" />
+        <item itemvalue="Python tests.pytest for test_decode.test_decode_message" />
+        <item itemvalue="Python tests.pytest for test_decode.test_decode_simple" />
+        <item itemvalue="Python tests.pytest for test_encode.test_encode_nephi" />
+        <item itemvalue="Python tests.pytest for test_encode.test_encode_message" />
       </list>
     </recent_temporary>
   </component>

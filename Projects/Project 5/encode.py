@@ -13,9 +13,8 @@ def main(cipher_file, infile, outfile):
     encoded_text = []
 
     for line in cipher:
-        if not re.match(r'[a-zA-Z],[a-zA-Z]', line):
-            return
-        cipher_dictionary[line.split(',')[0]] = line.split(',')[1]
+        if re.match(r'[a-zA-Z],[a-zA-Z]', line):
+            cipher_dictionary[line.split(',')[0]] = line.split(',')[1]
 
     for letter in plain_text:
         if letter.lower() in cipher_dictionary.keys() and letter.islower():
